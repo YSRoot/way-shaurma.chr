@@ -18,8 +18,7 @@ use Illuminate\Support\Facades\Validator;
 */
 Auth::routes();
 
-Route::get('/home', 'HomeController@home')->name('home');
-Route::get('/', 'HomeController@welcome')->name('welcome');
+Route::get('/', 'HomeController@welcome')->name('home');
 
 Route::get('/tasks', 'TaskController@tasks')->name('tasks');
 Route::post('/tasks/add', 'TaskController@addTask')->name('add-task');
