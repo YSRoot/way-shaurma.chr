@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/YSRoot/way-shaurma.chr/blob/master/public/images/logo.png" height="300" width="400"></p>
+<p align="center"><img src="https://github.com/YSRoot/way-shaurma.chr/blob/master/public/images/logo.png" width="300"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
